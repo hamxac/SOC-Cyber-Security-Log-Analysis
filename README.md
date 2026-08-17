@@ -12,7 +12,7 @@ This project simulates a Security Operations Center (SOC) environment by ingesti
 
 ## 📊 Live Dashboard
 You can interact with the final Threat Intelligence Dashboard here: 
-[**[PASTE YOUR TABLEAU LINK HERE]**](https://public.tableau.com/views/SOC-Incident-Analysis-Dashboard/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+(https://public.tableau.com/views/SOC-Incident-Analysis-Dashboard/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## 💻 Code Structure
 * `day7_bigdata.py` - Ingests and processes large log files.
